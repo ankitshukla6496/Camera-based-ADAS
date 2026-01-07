@@ -1,5 +1,5 @@
 # Camera-based-ADAS
-This project is a part of a project at Carnegie Mellon University
+This project is a part of Capstone Project at Carnegie Mellon University
 
 ---
 
